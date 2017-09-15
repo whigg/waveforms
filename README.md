@@ -1,2 +1,9 @@
-# waveforms
-Python scripts for analyzing ATM (and upcoming) ICESat-2 waveforms
+# README #
+
+* Alek Petty
+
+### What is this repository for? ###
+
+* Add a little summary here
+* V1
+
