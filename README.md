@@ -1,4 +1,4 @@
-# Arctic sea ice forecasting
+# ATM/ICESat-2 Waveform analysis
 **Alek Petty**   
 **Add other contributors here**
 
@@ -7,11 +7,11 @@
 
 ### Scripts
 
-* atmFuncs.py   
+* * atmFuncs.py*   
 
 - Experimental ATM waveform functions provided by the ATM team (courtesy M. Studinger).
 
-* atmWaveform.ipynb   
+* * atmWaveform.ipynb*
 
 - iPython Notebook for exploring waveform characterization
 
