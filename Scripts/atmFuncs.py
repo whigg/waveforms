@@ -3,7 +3,7 @@
 '''
 Demonstration functions for rading in atm waveforms
 Requires h5py (http://docs.h5py.org/en/latest/quick.html)
-Provided by the ATM team
+Initial functions provided by Matt Linkswiler and the ATM team
 
 '''
 import sys, os, glob, h5py, time
