@@ -9,11 +9,11 @@
 
 * atmFuncs.py     
 
-..Experimental ATM waveform functions provided by the ATM team (courtesy M. Studinger).
+   Experimental ATM waveform functions provided by the ATM team (courtesy M. Studinger).
 
 * atmWaveform.ipynb    
 
-..iPython Notebook for exploring waveform characterization
+   iPython Notebook for exploring waveform characterization
 
 All processing in Python 2.7. I have not tested with 3.
 
